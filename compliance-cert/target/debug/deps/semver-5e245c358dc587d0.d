@@ -1,0 +1,12 @@
+C:\Users\HP\Desktop\Smart-Contract-sorobane\compliance-cert\target\debug\deps\libsemver-5e245c358dc587d0.rmeta: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\backport.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\display.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\error.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\eval.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\identifier.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\impls.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\parse.rs
+
+C:\Users\HP\Desktop\Smart-Contract-sorobane\compliance-cert\target\debug\deps\semver-5e245c358dc587d0.d: C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\lib.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\backport.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\display.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\error.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\eval.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\identifier.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\impls.rs C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\parse.rs
+
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\lib.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\backport.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\display.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\error.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\eval.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\identifier.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\impls.rs:
+C:\Users\HP\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\semver-1.0.26\src\parse.rs:
